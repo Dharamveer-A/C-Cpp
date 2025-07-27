@@ -45,5 +45,5 @@ void pattern4(int n) {
 
 int main() {
     int n = 7;
-    pattern3(n);
+    pattern4(n);
 }
