@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // Header file
 #define size 100
 int arr[size];
 int n =10;
